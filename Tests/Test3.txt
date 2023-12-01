@@ -1,0 +1,27 @@
+Test3 Whvwlqjkfff44$ 1234
+
+Confirmation Code:                              		14678
+Name:                                           		Rich K
+Location:                                       		Paris
+Date:                                           		6/6/2023
+Total of people traveling:                      		6
+Total of people taking the tour:                		6
+The base charges are:                           		$4350
+Guide cost:                                     		$330
+The discount for groups of 5 or more is:        		$435
+The total charges are:                          		$4245
+The deposit required is:                        		$2122.5
+-----------------------------
+
+Confirmation Code:                              		22188
+Name:                                           		Angie Smith
+Location:                                       		Vienna
+Date:                                           		4/4/2024
+Total of people traveling:                      		7
+Total of people taking the tour:                		0
+The base charges are:                           		$3325
+Guide cost:                                     		$0
+The discount for groups of 5 or more is:        		$332.5
+The total charges are:                          		$2992.5
+The deposit required is:                        		$1496.25
+-----------------------------

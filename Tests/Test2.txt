@@ -1,0 +1,26 @@
+Test2 Whvwlqjkfff44$ 1515
+
+Confirmation Code:                              		248662
+Name:                                           		Pepe
+Location:                                       		Cancun
+Date:                                           		6/2/2024
+Total of people traveling:                      		10
+Total of people taking the tour:                		4
+The base charges are:                            		$5100
+Guide cost:                                      		$0
+The discount for groups of 5 or more is:         		$510
+The total charges are:                           		$4590
+The deposit required is:                         		$2295
+-----------------------------
+
+Confirmation Code:                              		584838
+Name:                                           		Keith Smith
+Location:                                       		Rio
+Date:                                           		5/5/2025
+Total of people traveling:                      		7
+Total of people buying carnival passes:         		2
+The base charges are:                           		$4100
+The discount for groups of 5 or more is:        		$410
+The total charges are:                          		$3690
+The deposit required is:                        		$1845
+-----------------------------
