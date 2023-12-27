@@ -10,7 +10,6 @@ World Travel Agency reservation system! This program allows users to create, man
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Test Files](#additional-Test-Files)
 - [Contributing](#contributing)
 - [License](#license)
@@ -89,14 +88,8 @@ World Travel Agency reservation system! This program allows users to create, man
 6. **Finish Menu:**
    - Select options to create another reservation, access existing reservations, or log out.
 
-## Project Structure
-
-- `main.cpp`: Main program file containing the entry point and core logic.
-- `account.h` and `account.cpp`: Header and implementation files for user account management.
-- `reservation.h` and `reservation.cpp`: Header and implementation files for reservation management.
-- `travel.h` and `travel.cpp`: Header and implementation files for travel-related functions.
-
 ## Additional Test Files
+
 The repository includes test files to validate the functionality of the reservation system - see the [Tests](Tests) file:
 - `test.txt`: Contains a sample reservation for a user.
 - `test2.txt`: Another sample reservation with different options.
@@ -106,10 +99,6 @@ To test the system with these files, follow these steps:
 2. Select the option to access reservations.
 3. Enter the name on the reservation and the confirmation code.
 4. The system will display the details of the matching reservation.
-
-## Authors
-
-- Juan Valencia
 
 ## Contributing
 
