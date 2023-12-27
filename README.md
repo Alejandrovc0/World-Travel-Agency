@@ -1,5 +1,6 @@
 # World Travel Agency
 
+CS First semester - Final C++ project. 
 World Travel Agency reservation system! This program allows users to create, manage, and access their travel reservations to various destinations.
 
 ## Table of Contents
